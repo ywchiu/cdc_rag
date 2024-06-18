@@ -1,2 +1,1 @@
-# cdc_rag
-cdc_rag
+# RAG實戰: 導入AI為組織打造第二大腦
