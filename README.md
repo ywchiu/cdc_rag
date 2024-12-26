@@ -8,3 +8,6 @@
 
 ## 20241225 範例：
 - https://colab.research.google.com/drive/1JEw05WuTHAtWLgD05G4s53rfr4VHMHN4?usp=sharing
+
+## 20241226 範例：
+- https://colab.research.google.com/drive/1aJrw7bfliC4f_zFlz0dj4nWY_hCcuVYL?usp=sharing
